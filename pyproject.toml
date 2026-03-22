@@ -1,0 +1,11 @@
+[project]
+name = "pa4-dashboard"
+version = "0.1.0"
+requires-python = ">=3.10"
+
+[project.dependencies]
+dependencies = [
+    "streamlit>=1.30",
+    "pandas>=2.0",
+    "requests>=2.31",
+]
